@@ -4,7 +4,7 @@ Small Recurrent Neural Network that predicts stocks
 
 ## Disclaimer
 
-This work is based on this (Deep learning course) [https://www.udemy.com/course/deeplearning/]
+This work is based on this (Deep learning course)[https://www.udemy.com/course/deeplearning/]
 
 This is for educational purposes only
 
