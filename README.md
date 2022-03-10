@@ -29,3 +29,5 @@ I highly recommend you use [Spyder IDE](https://www.spyder-ide.org/) to run and
 analyze what this RNN is doing, specially on the reshape steps, since those
 can be very confusing. With spyder you can run line by line and analize
 the variables generated.
+
+![Spyder UI](images/readme_screenshot.png?raw=true "Plot generated from RNN")
