@@ -12,7 +12,8 @@ This is for educational purposes only
 ## Description
 
 This RNN learns data from `dataset_train` which contains 5 years of Google 
-stock prices and predicts the next X number of days based on `timesteps` variable.
+stock prices and predicts the next day using X number of days from the past with
+`timesteps` (default to 60)
 
 You can use and improve this code freely.
 
