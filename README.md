@@ -1,4 +1,5 @@
-# rnn-stock-price-prediction
+# RNN stock price prediction
+
 Small Recurrent Neural Network that predicts stocks
 
 
