@@ -31,3 +31,4 @@ can be very confusing. With spyder you can run line by line and analize
 the variables generated.
 
 ![Spyder UI](images/readme_screenshot.png?raw=true "Plot generated from RNN")
+(Plot blue line is the prediction, step by step for a whole month)
